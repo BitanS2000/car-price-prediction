@@ -27,8 +27,6 @@ This project is part of my professional portfolio as a Business Analyst, showcas
 
 ## 🖼️ Sample Visuals
 
-> *Add these once visuals are pushed to GitHub*
-
 ```markdown
 ![Actual vs Predicted](visuals/Predicted_Price_vs_Actual_Price.png)
 ![Sales Distribution](visuals/Average_sales_over_time.png)
