@@ -27,5 +27,16 @@ This project is part of my professional portfolio as a Business Analyst, showcas
 ---
 
 
+HEAD
 
 
+
+![Actual vs Predicted](visuals/Predicted_Price_vs_Actual_Price.png)
+![Sales Distribution](visuals/Average_sales_over_time.png)
+
+## 🖼️ Sample Visuals
+
+```markdown
+![Actual vs Predicted](visuals/Predicted_Price_vs_Actual_Price.png)
+![Sales Distribution](visuals/Average_sales_over_time.png)
+ f01b4e12801ff4178223c45050045bd90b6442bf
